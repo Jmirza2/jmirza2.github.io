@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title> Assignment 5b </title>
+    <style>
+      header{
+        font-family: sans-serif;
+        background-color: gainsboro;
+      }
+      h1 {
+        color: rgb(83, 8, 242);
+        font-size: 50px;
+        text-align: center;
+      }
+      h2 {
+        color: mediumspringgreen;
+        font-size: 50px;
+        text-align: left;
+      }
+      body {
+        background-color: rgb(249, 249, 249);
+        font-family: Arial, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <header> 
+      <h1 style = "color: black; font-size: 100px;"> Welcome to Joe's Website </h1>
+    </header>
+    <h1>Made by HTML & CSS</h1>
+    <h2> Left </h2>
+    <h2> HOOPLA </h2>
+    <p> Hello World! </p>
+  </body>
+</html>
