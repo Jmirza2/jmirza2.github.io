@@ -5,12 +5,12 @@ body{
      h1 {
         color: rgb(83, 8, 242);
         font-size: 50px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: 'Franklin Gothic Medium', sans-serif;
         text-align: center;
       }
       h2 {
         color: rgb(0, 250, 233);
         font-size: 50px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: 'Lucida Sans', sans-serif;
         text-align: left;
       }
