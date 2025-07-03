@@ -1,3 +1,14 @@
 body{
     background-color: lightblue;
 }
+
+     h1 {
+        color: rgb(83, 8, 242);
+        font-size: 50px;
+        text-align: center;
+      }
+      h2 {
+        color: mediumspringgreen;
+        font-size: 50px;
+        text-align: left;
+      }
