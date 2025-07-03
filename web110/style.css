@@ -3,14 +3,14 @@ body{
 }
 
      h1 {
-        color: rgb(83, 8, 242);
+        color: rgb(157, 179, 246);
         font-size: 50px;
         font-family: 'Franklin Gothic Medium';
         text-align: center;
       }
       h2 {
-        color: rgb(176, 237, 150);
+        color: rgb(157, 179, 246);
         font-size: 50px;
         font-family: Georgia, Times;
-        text-align: left;
+        text-align: center;
       }
