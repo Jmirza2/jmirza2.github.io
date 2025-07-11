@@ -4,17 +4,17 @@ header {
     }
 
 body{
-    background-color:black;
+    background-color:rgb(157, 217, 246);
 }
 
      h1 {
-        color: rgb(84, 15, 196);
+        color: rgb(255, 255, 255);
         font-size: 50px;
         font-family: 'Franklin Gothic Medium';
         text-align: center;
       }
       h2 {
-        color: rgb(84, 15, 196);
+        color: rgb(255, 255, 255);
         font-size: 50px;
         font-family: Georgia, Times;
         text-align: center;
