@@ -1,6 +1,6 @@
 header {
       font-family: sans-serif;
-      background-color: rgb(173, 255, 255);
+      background-color: rgb(229, 255, 255);
     }
 
     body {
@@ -10,6 +10,8 @@ header {
             background-attachment: fixed;
             color: black; /* Ensures text shows up if the background is light */
             font-family: 'Courier New', monospace;
+            font-weight: bold;
+            font-size: 70px;
         }
 
 
