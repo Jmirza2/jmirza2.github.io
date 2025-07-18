@@ -3,12 +3,15 @@ header {
       background-color: rgb(255, 187, 234);
     }
 
-body{
-    /* background-color:rgb(157, 217, 246); 
-    background-color: #b3f3ed;
-    color: #000000;
-    */
-}
+    body {
+            background-image: url('images/1397598.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: black; /* Ensures text shows up if the background is light */
+            font-family: 'Courier New', monospace;
+        }
+
 
      h1 {
         color: rgb(255, 255, 255);
