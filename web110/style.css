@@ -8,7 +8,7 @@ header {
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
-            color: black; /* Ensures text shows up if the background is light */
+            color: black; 
             font-family: 'Courier New', monospace;
         }
 
