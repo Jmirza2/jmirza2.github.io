@@ -3,7 +3,7 @@ header {
       background-color: rgb(173, 255, 255);
     }
 
-    body {
+    body.final_project {
             background-image: url('images/1397598.png');
             background-size: cover;
             background-repeat: no-repeat;
